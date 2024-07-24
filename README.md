@@ -1,3 +1,5 @@
+* There is an issue with the Bing News API as it does not work anymore with RapidAPI. It needs to be changed or use Azure to retreive Bing news.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
