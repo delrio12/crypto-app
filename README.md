@@ -1,3 +1,5 @@
+![alt text](https://firebasestorage.googleapis.com/v0/b/portfolio-svelte-3d3e0.appspot.com/o/GitHub%20Storage%2Fcrypto-app%2Fcrypto-app-1.jpg?alt=media&token=aa9cabde-fbdd-4a05-986c-333e886518db) 
+
 * There is an issue with the Bing News API as it does not work anymore with RapidAPI. It needs to be changed or use Azure to retreive Bing news.
 
 # Getting Started with Create React App
